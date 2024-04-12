@@ -1,0 +1,3 @@
+Funcionalidad de la pantalla de resultado (Output) (esto también depende, nota 3)
+
+//Se concluyeron los diseños por lo que se termino la funcionalidad de pantalla.
