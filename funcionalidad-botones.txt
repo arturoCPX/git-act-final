@@ -1,1 +1,3 @@
 Funcionalidad de botones (Inputs) (depende de que se haya hecho el diseño visual, nota 3)
+
+//Se concluyeron los diseños por lo que se termino la funcionalidad de botones.
