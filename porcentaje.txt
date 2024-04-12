@@ -1,0 +1,2 @@
+Operacion Porcentaje
+//En este apartado encontraresmo la opearacion relacionada para cierta accion(porcentaje).
