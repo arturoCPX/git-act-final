@@ -1,0 +1,3 @@
+Operaciones Multiplicar y dividir
+//Se realizo la correcion al dividir porcentaje
+//En este apartado encontraresmo las opearaciones relacionadas para ciertas acciones(Multiplicar y Dividir).
